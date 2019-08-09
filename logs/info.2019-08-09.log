@@ -1,0 +1,181 @@
+2019-08-09 09:36:08,494 [main] INFO  com.example.demo.service.UserServiceTest - Starting UserServiceTest on DESKTOP-PV0L49Q with PID 216 (started by ZGD in E:\demo)
+2019-08-09 09:36:08,494 [main] INFO  com.example.demo.service.UserServiceTest - No active profile set, falling back to default profiles: default
+2019-08-09 09:36:13,124 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-09 09:36:13,854 [main] INFO  com.example.demo.service.UserServiceTest - Started UserServiceTest in 7.38 seconds (JVM running for 10.914)
+2019-08-09 09:36:14,474 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-09 09:36:18,063 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-09 09:38:40,809 [main] INFO  com.example.demo.service.UserServiceTest - Starting UserServiceTest on DESKTOP-PV0L49Q with PID 4796 (started by ZGD in E:\demo)
+2019-08-09 09:38:40,819 [main] INFO  com.example.demo.service.UserServiceTest - No active profile set, falling back to default profiles: default
+2019-08-09 09:38:45,189 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-09 09:38:45,929 [main] INFO  com.example.demo.service.UserServiceTest - Started UserServiceTest in 6.499 seconds (JVM running for 8.514)
+2019-08-09 09:38:46,279 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-09 09:38:49,499 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-09 09:41:14,035 [main] INFO  com.example.demo.service.UserServiceTest - Starting UserServiceTest on DESKTOP-PV0L49Q with PID 9468 (started by ZGD in E:\demo)
+2019-08-09 09:41:14,038 [main] INFO  com.example.demo.service.UserServiceTest - No active profile set, falling back to default profiles: default
+2019-08-09 09:41:18,603 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-09 09:41:19,496 [main] INFO  com.example.demo.service.UserServiceTest - Started UserServiceTest in 6.57 seconds (JVM running for 8.32)
+2019-08-09 09:41:19,829 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-09 09:41:23,391 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-09 09:42:22,872 [main] INFO  com.example.demo.service.UserServiceTest - Starting UserServiceTest on DESKTOP-PV0L49Q with PID 7348 (started by ZGD in E:\demo)
+2019-08-09 09:42:22,882 [main] INFO  com.example.demo.service.UserServiceTest - No active profile set, falling back to default profiles: default
+2019-08-09 09:42:27,132 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-09 09:42:27,892 [main] INFO  com.example.demo.service.UserServiceTest - Started UserServiceTest in 6.164 seconds (JVM running for 8.075)
+2019-08-09 09:42:28,232 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-09 09:42:30,542 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-09 09:42:30,712 [main] INFO  com.example.demo.service.UserServiceTest - 查找结果null
+2019-08-09 09:42:30,752 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-09 09:42:30,762 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-09 09:42:30,812 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-09 09:43:28,349 [main] INFO  com.example.demo.service.UserServiceTest - Starting UserServiceTest on DESKTOP-PV0L49Q with PID 5300 (started by ZGD in E:\demo)
+2019-08-09 09:43:28,351 [main] INFO  com.example.demo.service.UserServiceTest - No active profile set, falling back to default profiles: default
+2019-08-09 09:43:32,552 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-09 09:43:33,261 [main] INFO  com.example.demo.service.UserServiceTest - Started UserServiceTest in 6.098 seconds (JVM running for 7.893)
+2019-08-09 09:43:33,568 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-09 09:43:36,023 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-09 09:43:36,087 [main] INFO  com.example.demo.service.UserServiceTest - 查找结果com.example.demo.dto.User@643d2dae
+2019-08-09 09:43:36,100 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-09 09:43:36,104 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-09 09:43:36,109 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-09 10:07:21,327 [main] INFO  com.example.demo.service.UserServiceTest - Starting UserServiceTest on DESKTOP-PV0L49Q with PID 6440 (started by ZGD in E:\demo)
+2019-08-09 10:07:21,330 [main] INFO  com.example.demo.service.UserServiceTest - No active profile set, falling back to default profiles: default
+2019-08-09 10:07:25,793 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-09 10:07:26,493 [main] INFO  com.example.demo.service.UserServiceTest - Started UserServiceTest in 6.233 seconds (JVM running for 8.041)
+2019-08-09 10:07:26,830 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-09 10:07:29,222 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-09 10:07:29,326 [main] INFO  com.example.demo.service.UserServiceTest - 查找结果[Ljava.lang.Object;@69afa141
+2019-08-09 10:07:29,375 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-09 10:07:29,392 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-09 10:07:29,409 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-09 10:11:06,529 [main] INFO  com.example.demo.service.UserServiceTest - Starting UserServiceTest on DESKTOP-PV0L49Q with PID 5352 (started by ZGD in E:\demo)
+2019-08-09 10:11:06,531 [main] INFO  com.example.demo.service.UserServiceTest - No active profile set, falling back to default profiles: default
+2019-08-09 10:11:11,896 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-09 10:11:12,835 [main] INFO  com.example.demo.service.UserServiceTest - Started UserServiceTest in 7.417 seconds (JVM running for 9.241)
+2019-08-09 10:11:13,250 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-09 10:11:16,154 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-09 10:11:16,312 [main] INFO  com.example.demo.service.UserServiceTest - 查找结果User{userId=11, userName='林炳文', userPassword='1234567@', userEmail='ling20081005@126.com'}
+2019-08-09 10:11:16,380 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-09 10:11:16,383 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-09 10:11:16,423 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-09 10:17:42,529 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-PV0L49Q with PID 1828 (E:\demo\target\classes started by ZGD in E:\demo)
+2019-08-09 10:17:42,538 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-09 10:17:44,484 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-08-09 10:17:44,506 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-09 10:17:44,516 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-09 10:17:44,516 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-09 10:17:44,651 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-09 10:17:44,651 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2007 ms
+2019-08-09 10:17:45,393 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-09 10:17:45,782 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-09 10:17:45,815 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-08-09 10:17:45,821 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 4.459 seconds (JVM running for 6.455)
+2019-08-09 10:17:59,983 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-09 10:17:59,984 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-09 10:18:00,001 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 17 ms
+2019-08-09 10:18:00,082 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-09 10:18:01,257 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-09 10:19:28,310 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-PV0L49Q with PID 4812 (E:\demo\target\classes started by ZGD in E:\demo)
+2019-08-09 10:19:28,316 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-09 10:19:29,929 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-08-09 10:19:29,944 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-09 10:19:29,955 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-09 10:19:29,955 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-09 10:19:30,066 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-09 10:19:30,066 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1658 ms
+2019-08-09 10:19:30,537 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-09 10:19:30,900 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-09 10:19:30,929 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-08-09 10:19:30,933 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 3.599 seconds (JVM running for 5.517)
+2019-08-09 10:19:35,542 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-09 10:19:35,543 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-09 10:19:35,554 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 11 ms
+2019-08-09 10:19:35,600 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-09 10:19:36,723 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-09 10:19:53,249 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-PV0L49Q with PID 6020 (E:\demo\target\classes started by ZGD in E:\demo)
+2019-08-09 10:19:53,255 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-09 10:19:54,903 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-08-09 10:19:54,921 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-09 10:19:54,932 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-09 10:19:54,932 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-09 10:19:55,048 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-09 10:19:55,049 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1662 ms
+2019-08-09 10:19:56,026 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-09 10:19:56,378 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-09 10:19:56,419 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-08-09 10:19:56,424 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 4.511 seconds (JVM running for 7.639)
+2019-08-09 10:21:33,536 [http-nio-8080-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-09 10:21:33,537 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-09 10:21:33,548 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 11 ms
+2019-08-09 10:21:44,531 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-09 10:21:48,891 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-09 10:22:14,825 [Thread-10] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-09 10:22:14,826 [Thread-10] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-09 10:22:14,849 [Thread-10] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-09 10:22:29,405 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-PV0L49Q with PID 10256 (E:\demo\target\classes started by ZGD in E:\demo)
+2019-08-09 10:22:29,410 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-09 10:22:31,422 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-08-09 10:22:31,440 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-09 10:22:31,451 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-09 10:22:31,451 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-09 10:22:31,571 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-09 10:22:31,571 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2006 ms
+2019-08-09 10:22:32,327 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-09 10:22:32,633 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-09 10:22:32,674 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-08-09 10:22:32,680 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 4.779 seconds (JVM running for 6.954)
+2019-08-09 10:22:40,016 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-09 10:22:40,016 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-09 10:22:40,026 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2019-08-09 10:22:44,439 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-09 10:22:48,668 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-09 10:23:04,776 [Thread-10] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-09 10:23:04,777 [Thread-10] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-09 10:23:04,794 [Thread-10] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-09 10:50:54,084 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-PV0L49Q with PID 9780 (E:\demo\target\classes started by ZGD in E:\demo)
+2019-08-09 10:50:54,088 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-09 10:50:55,646 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-08-09 10:50:55,660 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-09 10:50:55,677 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-09 10:50:55,678 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-09 10:50:55,796 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-09 10:50:55,797 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1556 ms
+2019-08-09 10:50:56,248 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-09 10:50:56,573 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-09 10:50:56,596 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-08-09 10:50:56,599 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 3.541 seconds (JVM running for 5.62)
+2019-08-09 10:52:31,070 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-09 10:52:31,071 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-09 10:52:31,085 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 13 ms
+2019-08-09 10:52:31,162 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-09 10:52:32,509 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-09 10:56:58,560 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-PV0L49Q with PID 6604 (E:\demo\target\classes started by ZGD in E:\demo)
+2019-08-09 10:56:58,567 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-09 10:57:00,142 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-08-09 10:57:00,160 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-09 10:57:00,170 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-09 10:57:00,171 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-09 10:57:00,287 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-09 10:57:00,288 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1573 ms
+2019-08-09 10:57:00,769 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-09 10:57:01,109 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-09 10:57:01,138 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-08-09 10:57:01,141 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 3.584 seconds (JVM running for 5.496)
+2019-08-09 11:00:57,463 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-09 11:00:57,463 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-09 11:00:57,470 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2019-08-09 11:00:57,514 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-09 11:00:58,656 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-09 11:47:38,913 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-PV0L49Q with PID 8048 (E:\demo\target\classes started by ZGD in E:\demo)
+2019-08-09 11:47:38,922 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-09 11:47:40,357 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-08-09 11:47:40,371 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-09 11:47:40,380 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-09 11:47:40,381 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-09 11:47:40,488 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-09 11:47:40,488 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1415 ms
+2019-08-09 11:47:40,922 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-09 11:47:41,236 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-09 11:47:41,258 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-08-09 11:47:41,261 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 3.188 seconds (JVM running for 4.95)
+2019-08-09 11:47:56,378 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-09 11:47:56,378 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-09 11:47:56,390 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 12 ms
